@@ -1,4 +1,4 @@
-FROM nginx:1.19.7-alpine
+FROM nginx:1.19.8-alpine
 
 # This is a hardcoded placeholder.
 # We'll likely configure confd to write this file
